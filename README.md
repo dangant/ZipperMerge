@@ -11,7 +11,7 @@ Here's a link to the performance: https://www.youtube.com/watch?v=3QOnXhCjp3Q
 
 
 # References
-Huge shout out to Bilal Himite who posted the below towardsdatascience article on simulating traffic. I used the intelligent driver model referenced in the paper to as a basis for the calculations in the Vpython code. I did try to use the Pygame code but struggled adapting the code to successfully model merging. I also thought Vpython would be funnier for the performance. If you are serious about simulating traffic though, I recommend reading Bilal's article and building of their code. https://towardsdatascience.com/simulating-traffic-flow-in-python-ee1eab4dd20f
+Huge shout out to Bilal Himite who posted the below towardsdatascience article on simulating traffic. I used the intelligent driver model referenced in the paper as a basis for the calculations in the Vpython code. I tried using Bilal's Pygame code but struggled adapting the code to successfully model merging. I also thought Vpython would be funnier for the performance. If you are serious about simulating traffic though, I recommend reading Bilal's article and building off of their code. https://towardsdatascience.com/simulating-traffic-flow-in-python-ee1eab4dd20f
 
 # Collaboration
 Go for it! Would love to hear how you use it. I'm sure there are manny errors and better ways to modularize the code. 
