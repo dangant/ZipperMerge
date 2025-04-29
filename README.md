@@ -7,7 +7,6 @@ After experencing painful traffic delays in the summer months and observing a fe
 # Comedy Performance and Simultaion
 Here's a link to the simulation: https://www.youtube.com/watch?v=VTmDIXYBgLw
 
-Here's a link to the performance: https://www.youtube.com/watch?v=3QOnXhCjp3Q
 
 
 # References
